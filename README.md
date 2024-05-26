@@ -1,2 +1,2 @@
 # Blue-Guy
-a command prombt that can do wonders
+a command prompt that can do wonders
